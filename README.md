@@ -40,7 +40,7 @@
 ---
 
 ### ✍ Writing Feed
-<!--  MEDIUM-LIST:START -->
+<!-- MEDIUM-LIST:START -->
 - [Analyzing the sensational rise of BTS](https://medium.com/@amaanraazi/analyzing-the-sensational-rise-of-bts-b5092ca0d47f?source=rss-74ba5cbcf80a------2)
 - [What makes things funny?](https://medium.com/@amaanraazi/what-makes-things-funny-12702cfe194e?source=rss-74ba5cbcf80a------2)
 - [Do numbers exist?](https://medium.com/@amaanraazi/do-numbers-exist-2bf013c3571c?source=rss-74ba5cbcf80a------2)
