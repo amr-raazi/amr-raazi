@@ -47,7 +47,7 @@
 <!-- MEDIUM-LIST:END -->
 
 ---
-### 📚 Reading Feed
+### 📚 Reading Currently
 <!-- GOODREADS-LIST:START -->
 - [The Psychology of Money](https://www.goodreads.com/review/show/3979371114?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.34)
 - [Train to Pakistan](https://www.goodreads.com/review/show/3953505621?utm_medium=api&utm_source=rss) by Khushwant Singh (⭐️3.9)
