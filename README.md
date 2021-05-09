@@ -21,7 +21,7 @@
 <br>
 
 ---
-### Languages and Tools:
+### 🔨 Languages and Tools:
 <img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />
 <img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
 <img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
