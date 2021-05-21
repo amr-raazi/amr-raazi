@@ -51,7 +51,6 @@
 ### 📚 Reading Currently
 <!-- GOODREADS-LIST:START -->
 - [Train to Pakistan](https://www.goodreads.com/review/show/3953505621?utm_medium=api&utm_source=rss) by Khushwant Singh (⭐️3.9)
-- [1984](https://www.goodreads.com/review/show/3953504697?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.27)
 - [The Bhagavad Gita](https://www.goodreads.com/review/show/3953503409?utm_medium=api&utm_source=rss) by Lars Martin Fosse (⭐️)
 <!-- GOODREADS-LIST:END -->
 ----
