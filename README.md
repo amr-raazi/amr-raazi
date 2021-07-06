@@ -5,9 +5,10 @@
 ## I'm a High School student from Delhi, India
 
 - 15
-- Huge mathematics enthusiast.
+- Mathematics enthusiast.
 - Technology nerd
 - Finance and philosophy geek
+- I also like chess and car go vroom (🇫1️)
 - Always Learning :)
 
 
