@@ -61,6 +61,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=amr-raazi&show_icons=true&hide_border=true&theme=onedark" />
 </a>
 
-[email]: mailto:utrebsto@gmail.com
+[email]: mailto:info@amaanraazi.com
 [essays]: https://medium.com/@amaanraazi
 [instagram]: https://www.instagram.com/amr_raazi/
