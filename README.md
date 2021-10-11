@@ -53,7 +53,7 @@
 <!-- GOODREADS-LIST:START -->
 - [Midnight&apos;s Children](https://www.goodreads.com/review/show/4022114749?utm_medium=api&utm_source=rss) by Salman Rushdie (⭐️4.1)
 - [Train to Pakistan](https://www.goodreads.com/review/show/3953505621?utm_medium=api&utm_source=rss) by Khushwant Singh (⭐️3.91)
-- [The Bhagavad Gita](https://www.goodreads.com/review/show/3953503409?utm_medium=api&utm_source=rss) by Lars Martin Fosse (⭐️)
+- [The Bhagavad Gita](https://www.goodreads.com/review/show/3953503409?utm_medium=api&utm_source=rss) by Lars Martin Fosse (⭐️4)
 <!-- GOODREADS-LIST:END -->
 ----
 
