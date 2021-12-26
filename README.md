@@ -8,7 +8,6 @@
 - Mathematics enthusiast.
 - Technology nerd
 - Finance and philosophy geek
-- I also like chess and car go vroom (🇫1️)
 - Always Learning :)
 
 
