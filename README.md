@@ -4,7 +4,7 @@
 
 ## I'm a High School student from Delhi, India
 
-- 15
+- 16 
 - Mathematics enthusiast.
 - Technology nerd
 - Finance and philosophy geek
