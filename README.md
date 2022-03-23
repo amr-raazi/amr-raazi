@@ -4,10 +4,10 @@
 
 ## I'm a High School student from Delhi, India
 
-- 15
-- Mathematics enthusiast.
-- Technology nerd
+- 16
+- Mathematics and tech enthusiast.
 - Finance and philosophy geek
+- I also like car go vroom (🇫1️)
 - Always Learning :)
 
 
