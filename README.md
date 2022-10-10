@@ -2,9 +2,9 @@
 
 
 
-## I'm a High School student from Delhi, India
+## I'm a High School student from India
 
-- 16
+- 17
 - Mathematics and tech enthusiast.
 - Finance and philosophy geek
 - I also like car go vroom (🇫1️)
