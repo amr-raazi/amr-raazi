@@ -50,9 +50,8 @@
 ---
 ### 📚 Reading Currently
 <!-- GOODREADS-LIST:START -->
-- [Midnight&apos;s Children](https://www.goodreads.com/review/show/4022114749?utm_medium=api&utm_source=rss) by Salman Rushdie (⭐️4.1)
-- [Train to Pakistan](https://www.goodreads.com/review/show/3953505621?utm_medium=api&utm_source=rss) by Khushwant Singh (⭐️3.91)
-- [The Bhagavad Gita](https://www.goodreads.com/review/show/3953503409?utm_medium=api&utm_source=rss) by Lars Martin Fosse (⭐️4)
+- [Train to Pakistan](https://www.goodreads.com/review/show/5213759951?utm_medium=api&utm_source=rss) by Khushwant Singh (⭐️3.92)
+- [1984](https://www.goodreads.com/review/show/5213757495?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 ----
 
