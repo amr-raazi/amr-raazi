@@ -50,7 +50,6 @@
 ---
 ### 📚 Reading Currently
 <!-- GOODREADS-LIST:START -->
-- [Train to Pakistan](https://www.goodreads.com/review/show/5213759951?utm_medium=api&utm_source=rss) by Khushwant Singh (⭐️3.92)
 - [1984](https://www.goodreads.com/review/show/5213757495?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 ----
