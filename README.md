@@ -7,7 +7,7 @@
 - 17
 - Mathematics and tech enthusiast.
 - Fluent in python (main language). Pretty good with C++.
-- Good with frontend web dev stuff. Workable JS.
+- Good with frontend web stuff. Workable JS.
 - I competitive program a bit. Qual'd for nationals in India in 2022 :)
 - Almost all my code is written for pleasure and thus not pushed to GitHub.
 - Finance and philosophy geek.
